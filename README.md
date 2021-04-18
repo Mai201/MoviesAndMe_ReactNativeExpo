@@ -8,8 +8,8 @@
 
 ### Prérequis:
 
--Récupérez votre token de l'API [TMDB](https://www.themoviedb.org/documentation/api) qui est utilisée ici.  
--Indiquez le dans le fichier 'TMDB_API.js' présent dans le dossier 'API'. 
+-Récupérez votre token de l'API [TMDB](https://www.themoviedb.org/documentation/api) utilisée ici.  
+-Indiquez le dans le fichier /API/TMDB_API.js.
 
 Dans le dossier parent, lancez la commande suivante:  
 `npm install`
